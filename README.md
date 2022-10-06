@@ -4,7 +4,7 @@ Esta é a solução do desafio Frontend Mentor [Interactive rating component](ht
 
 ## Índice
 
-- [Visão geral](#visão)
+- [Visão geral](#visão-geral)
   - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 
 ![](./images/screenshot.png)
 
-![](./images/screenshot 2.png)
+![](./images/screenshot2.png)
 
 ### Links
 
