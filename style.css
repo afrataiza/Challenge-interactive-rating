@@ -71,8 +71,8 @@ main {
 
 .loader {
     animation: spin 2s linear infinite;
-    border: 3px solid #848c94; /* Light grey */
-    border-top: 3px solid #343b44; /* Blue */
+    border: 3px solid #848c94;
+    border-top: 3px solid #343b44;
     border-radius: 50%;
     display: none;
     height: 20px;
