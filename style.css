@@ -71,7 +71,7 @@ main {
 
 .loader {
     animation: spin 2s linear infinite;
-    border: 3px solid #f3f3f3; /* Light grey */
+    border: 3px solid #848c94; /* Light grey */
     border-top: 3px solid #343b44; /* Blue */
     border-radius: 50%;
     display: none;
@@ -115,19 +115,19 @@ main {
     width: 40px;
 }
 
-.rating input:nth-child(1):before {
+.rating input#rate1:before {
     content: "1";
 }
-.rating input:nth-child(2):before {
+.rating input#rate2:before {
     content: "2";
 }
-.rating input:nth-child(3):before {
+.rating input#rate3:before {
     content: "3";
 }
-.rating input:nth-child(4):before {
+.rating input#rate4:before {
     content: "4";
 }
-.rating input:nth-child(5):before {
+.rating input#rate5:before {
     content: "5";
 }
 
