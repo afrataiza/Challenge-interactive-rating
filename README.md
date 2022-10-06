@@ -4,7 +4,7 @@ Esta é a solução do desafio Frontend Mentor [Interactive rating component](ht
 
 ## Índice
 
-- [Visão geral](#visão)
+- [Visão geral](#visão-geral)
   - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -29,11 +29,11 @@ Os usuários devem ser capazes de:
 
 ![](./images/screenshot.png)
 
-![](./images/screenshot 2.png)
+![](./images/screenshot2.png)
 
 ### Links
 
-- Demo URL: [Interactive Rating](https://your-live-site-url.com)
+- Demo URL: [Interactive Rating](https://afrataiza.github.io/Challenge-interactive-rating/)
 
 ### Construído Com
 
@@ -45,7 +45,7 @@ Os usuários devem ser capazes de:
 
 ### O Que Aprendi
 
-Foi possível aperfeiçoar habilidades em recusos de animção CSS e colocar em prática habilidades em programção Javascript.
+Foi possível aperfeiçoar habilidades em recursos de animção CSS e colocar em prática habilidades em programção Javascript.
 
 ## Author
 
