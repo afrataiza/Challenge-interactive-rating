@@ -4,12 +4,12 @@ Esta é a solução do desafio Frontend Mentor [Interactive rating component](ht
 
 ## Índice
 
-- [Visão geral](#overview)
-  - [O Desafio](#the-challenge)
+- [Visão geral](#visão)
+  - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Construído Com](#built-with)
-  - [O Que Aprendi ](#what-i-learned)
+  - [Construído Com](#construído-com)
+  - [O Que Aprendi ](#o-que-aprendi)
 - [Author](#author)
 
 ## Visão Geral
@@ -28,6 +28,8 @@ Os usuários devem ser capazes de:
 ### Screenshot
 
 ![](./images/screenshot.png)
+
+![](./images/screenshot 2.png)
 
 ### Links
 
