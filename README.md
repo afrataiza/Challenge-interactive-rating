@@ -29,6 +29,8 @@ Os usuários devem ser capazes de:
 
 ![](./images/screenshot.png)
 
+![](./images/screenshot2.png)
+
 ### Links
 
 - Demo URL: [Interactive Rating](https://your-live-site-url.com)
